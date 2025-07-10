@@ -17,7 +17,7 @@ I’m an enthusiastic developer and tech strategist who’s driven to craft mean
 I specialize in:
 
 - 🔒 Secure API Development with Laravel
-- 🔗 RESTful API development with Express & FastAPI
+- 🔗 RESTful API development with Express & Django
 - ⚙️ Frontend Development with React, Inertia.js & TypeScript
 - 🎨 UI Engineering with TailwindCSS, Material UI & ShadCN UI
 - 🧠 AI-enhanced Smart Services
@@ -32,6 +32,7 @@ currently pursuing my undergraduate studies in Information Technology at Univers
 ### 🖥 Backend Development
 
 <p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white">
