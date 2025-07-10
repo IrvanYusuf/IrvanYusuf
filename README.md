@@ -16,7 +16,7 @@ I’m an enthusiastic developer and tech strategist who’s driven to craft mean
 
 I specialize in:
 
-- 🔒 Secure API Development with Laravel & Sanctum
+- 🔒 Secure API Development with Laravel
 - 🔗 RESTful API development with Express & FastAPI
 - ⚙️ Frontend Development with React, Inertia.js & TypeScript
 - 🎨 UI Engineering with TailwindCSS, Material UI & ShadCN UI
