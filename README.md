@@ -23,7 +23,7 @@ I specialize in:
 - 🧠 AI-enhanced Smart Services
 - 🧩 Modular and Maintainable System Design
 
-currently pursuing my undergraduate studies in Information Technology at Universitas Mikroskil, where I actively sharpen my skills in software development and system design through both academic projects and real-world applications. Previously, I contributed to digital transformation initiatives at ISK News Kudus, focusing on developing media platforms, streaming services, and public communication tools.
+currently pursuing my undergraduate studies in Information Technology at Universitas Mikroskil, where I actively sharpen my skills in software development and system design through both academic projects and real-world applications.
 
 ---
 
