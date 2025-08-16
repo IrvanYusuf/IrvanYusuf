@@ -18,7 +18,7 @@ I specialize in:
 
 - 🔒 Secure API Development with Laravel
 - 🔗 RESTful API development with Express & Django
-- ⚙️ Frontend Development with React, Inertia.js & TypeScript
+- ⚙️ Frontend Development with React, Next.js & TypeScript
 - 🎨 UI Engineering with TailwindCSS, Material UI & ShadCN UI
 - 🧠 AI-enhanced Smart Services
 - 🧩 Modular and Maintainable System Design
