@@ -5,7 +5,7 @@
 <p align="center">
   <em>Undergraduate Student of Information Technology – Universitas Mikroskil</em>
   <br>
-  <em>6th Semester – Universitas Mikroskil</em>
+  <em>7th Semester – Universitas Mikroskil</em>
 </p>
 
 ---
