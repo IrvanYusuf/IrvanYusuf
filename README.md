@@ -70,5 +70,5 @@ currently pursuing my undergraduate studies in Information Technology at Univers
 
 - 📧 Email: irvanyusufcahyadi4@gmail.com
 - 🧵 Threads: @irvanyusufcahyadi\_\_
-- 🌐 Portfolio: irvanyusufcahyadi.vercel.app
+- 🌐 Portfolio: irvanyusufcahyadi.com
 - 💼 LinkedIn: linkedin.com/in/irvanyusufcahyadi
