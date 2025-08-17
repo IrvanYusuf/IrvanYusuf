@@ -66,12 +66,6 @@ currently pursuing my undergraduate studies in Information Technology at Univers
 
 ---
 
-## 🏋️ Stats
-
-[![IrvanYusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrvanYusuf&count_private=true)](https://github.com/IrvanYusuf/github-readme-stats)
-
----
-
 ## 🍖 Lets know me
 
 - 📧 Email: irvanyusufcahyadi4@gmail.com
