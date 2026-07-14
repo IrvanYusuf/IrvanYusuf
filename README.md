@@ -20,7 +20,6 @@ I specialize in:
 - 🔗 RESTful API development with Express & Django
 - ⚙️ Frontend Development with React, Next.js & TypeScript
 - 🎨 UI Engineering with TailwindCSS, Material UI & ShadCN UI
-- 🧠 AI-enhanced Smart Services
 - 🧩 Modular and Maintainable System Design
 
 currently pursuing my undergraduate studies in Information Technology at Universitas Mikroskil, where I actively sharpen my skills in software development and system design through both academic projects and real-world applications.
